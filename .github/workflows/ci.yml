@@ -51,3 +51,5 @@ jobs:
         with:
           name: asr-label-win-x64.zip
           path: app/dist/asr-label-win-x64.exe
+
+ 
